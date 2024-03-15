@@ -15,6 +15,6 @@ export default [
         title: 'Portfolio Website',
         imgUrl: '/assets/Portfolio.PNG',
         stack: ['React.js', 'Tailwind', 'Vite'],
-        link: 'https://google.com',
+        link: 'https://github.com/RJD27/portfolio',
     },
 ]
